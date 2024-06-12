@@ -10,4 +10,4 @@
 - 🔭 &nbsp; I'm currently studying for my doctorate at Wuhan University, School of Remote Sensing and Information Engineering
 - 🌱 &nbsp; I’m currently learning Multimodal Large Model and Remote Sensing Foundation Models (RSFM); 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Fanstandy?tab=repositories)
-- 💬 &nbsp; Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>, I am happy to help;
+- 💬 &nbsp; Ask me anything about from <a href="https://github.com/Fanstandy/Fanstandy/issues" title="Issues">Here</a>, I am happy to help;
